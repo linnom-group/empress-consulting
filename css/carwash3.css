@@ -393,9 +393,9 @@
 	--mfn-before-after-label-color: #ef92ff;
 }
 .mcb-section_custom40 {
-	background-color: #F0F4F4;
+	background-color: #e2e8ef;
 	padding-top: 140px;
-	background-image: url(../images/carwash3-section-bg1.webp);
+	/* background-image: url(../images/carwash3-section-bg1.webp); */
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: auto;
@@ -471,7 +471,7 @@
 }
 .mcb-section .mcb-wrap_custom109 .mcb-wrap_inner_custom109 {
 	margin-top: 140px;
-	background-image: url(../images/carwash3-wrap-bg5.svg);
+	background-image: url(../images/carwash3-wrap-bg5.svg.gif);
 	background-position: center;
 	background-size: contain;
 	background-repeat: no-repeat;

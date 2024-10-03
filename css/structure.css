@@ -3320,7 +3320,7 @@ body.underline-links .mfn-builder-content .column_column a:not(.button), body.un
 }
 .mcb-column-inner {
 	position: relative;
-	margin-top: var(--mfn-column-gap-top);
+	margin-top: 50px;
 	margin-bottom: var(--mfn-column-gap-bottom);
 	margin-left: var(--mfn-column-gap-left);
 	margin-right: var(--mfn-column-gap-right);
